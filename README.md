@@ -8,3 +8,4 @@ Trying a few things from Markdown Markup syntax(** and i hadn't even heard about
 well here we are again...\(0_0)/
 oh we have emojies thanks to Markdown :pizza: 🍸
 preview changes then 😄
+adding more than one author...later!
